@@ -21,7 +21,6 @@ const {
     converterMilisegundosParaHoras,
 } = require('./conversores');
 
-
 describe('Metro ↔ Pé', () => {
     test('1 metro vira 3.281 pés', () => {
         expect(converterMetroEmPe(1)).toBe(3.281);
