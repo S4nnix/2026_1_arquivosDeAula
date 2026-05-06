@@ -32,14 +32,6 @@ Tiene' detrás par de gato' que me quieren imitar
 Yo te toco los botone' hasta que te dé restart
 El pantaloncito es nuevo y el cabrón quiere explotar
 
-You might also like
-CONTRABANDO
-Rauw Alejandro, Wisin & Ñengo Flow
-WEKEWEKE
-SAIKO
-SÍ QUIERO
-SAIKO
-
 [Refrán: Omar Courtz]
 Mami, ¿qué tú 'tá haciendo?
 Cada vez 'tás más rica, más grande
